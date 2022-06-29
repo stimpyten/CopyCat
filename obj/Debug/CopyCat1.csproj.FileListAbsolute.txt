@@ -1,0 +1,16 @@
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\bin\Debug\CopyCat1.exe.config
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\bin\Debug\CopyCat1.exe
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\bin\Debug\CopyCat1.pdb
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1.csproj.AssemblyReference.cache
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\MainWindow.g.cs
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\App.g.cs
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1_MarkupCompile.cache
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1_MarkupCompile.lref
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\MainWindow.baml
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1.g.resources
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1.Properties.Resources.resources
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1.csproj.GenerateResource.cache
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1.csproj.CoreCompileInputs.cache
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1.exe
+C:\Users\stimp\source\repos\CopyCat WPF\CopyCat1\obj\Debug\CopyCat1.pdb

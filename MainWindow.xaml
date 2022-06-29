@@ -1,0 +1,20 @@
+﻿<Window x:Class="CopyCat1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CopyCat1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="201" Width="430">
+    <Grid>
+        <Button Name="inputPathButton" Click="InputPath_Click" Content="Input Path" HorizontalAlignment="Left" Margin="36,15,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox Name="inputPathText"  HorizontalAlignment="Left" Margin="147,16,0,0" TextWrapping="NoWrap" Text="TextBox" VerticalAlignment="Top" Height="18" Width="250" IsReadOnly="True"/>
+        <CheckBox HorizontalAlignment="Left" Margin="15,42,0,0" VerticalAlignment="Top" Checked="FirstPathCheck" Unchecked="FirstPathUncheck"/>
+        <Button Name="firstOutputPathButton" Click="FirstOutputPath_Click" Content="Local Path" HorizontalAlignment="Left" Margin="36,40,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox Name="firstOutputPathText" HorizontalAlignment="Left" Margin="147,41,0,0" TextWrapping="NoWrap" Text="TextBox" VerticalAlignment="Top" Height="18" Width="250" IsReadOnly="True"/>
+        <CheckBox HorizontalAlignment="Left" Margin="15,67,0,0" VerticalAlignment="Top" Checked="SecondPathCheck" Unchecked="SecondPathUncheck"/>
+        <Button Name="secondOutputPathButton" Click="SecondOutputPath_Click" Content="Local Path" HorizontalAlignment="Left" Margin="36,65,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox Name="secondOutputPathText" HorizontalAlignment="Left" Margin="147,66,0,0" TextWrapping="NoWrap" Text="TextBox" VerticalAlignment="Top" Height="18" Width="250" IsReadOnly="True"/>
+        <Button Name="Go" Click="Go_Click" Content="Go!" HorizontalAlignment="Left" Margin="36,118,0,0" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>
